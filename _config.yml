@@ -1,15 +1,14 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
-
-baseurl: /gradfolio #name of GitHub repository
+title: amir
+description: amir
+baseurl: /amir #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
 
-highlighter: rouge
-markdown: kramdown
+highlighter: man
+markdown: hakimie
 
 # Pagination
 paginate: 4
@@ -20,7 +19,7 @@ paginate_path: /blog/page:num/
 facebook: "#"
 twitter: "#"
 linkedin: "#"
-github: "#"
+github: "nothing"
 researchgate: "#"
 orcid: "#"
 
